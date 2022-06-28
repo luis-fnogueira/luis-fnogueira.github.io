@@ -54,7 +54,7 @@ In June 2022 I joined the People Analytics team. Using Google Data Studio and Go
 # Languages
 
 
-  English: EFSET English Certificate 72/100 (C2 Proficient)
+  [English: EFSET English Certificate 72/100 (C2 Proficient)](https://www.efset.org/cert/ig4j1w)
 
   Italian: B1    
 
