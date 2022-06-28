@@ -39,13 +39,13 @@ In June 2022 I joined the People Analytics team. Using Google Data Studio and Go
     • Shipment time analysis
     • Development of Excel macros for spreadsheet automation
     
-# ACADEMIC EDUCATION
+# Academic education
 
      • Postgraduate in Business Intelligence – "Instituto de Gestão e Tecnologia da Informação" – Studying – Graduation forecast in 08/2022
      • Postgraduate in General Administration - "Universidade Paulista" - Completion in 2020
      • Graduation in Business Logistics - "Universidade Paulista" - Completion in 2019
 
-# TECHNICAL SKILLS
+# Technical skills
 
      • Data analysis with Excel and Python
      • Knowledge in Dataviz: Power BI, Metabase, Google Data Studio
