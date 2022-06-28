@@ -26,7 +26,7 @@ In June 2022 I joined the People Analytics team. Using Google Data Studio and Go
 ## Company: Esplanada Móveis – Jundiaí/SP – (Jul/2020 - Dec/2021)
 ### Positions:
     • Senior Transport Assistant
-    • Shopping assistant
+    • Purchasing assistant
     • Administrative Assistant - Purchasing Sector
 
 
