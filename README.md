@@ -5,3 +5,36 @@ I am Luis Nogueira, I was born in Jundiaí/SP in Brazil and I work as a People A
 
 I have a background in logistics and HR. I have worked in transportation, supplies, onboarding (of employees) and always have sought to use data to improve company's performance. Then I decided to become a data analyst and started to study Python, SQL and different data visualization softwares, such as Power BI.
 
+# PROFESSIONAL EXPERIENCE
+
+## Company: Clicksign – São Paulo/SP – (Dec/2021 - Currently)
+### Positions:
+    • People Analyst
+    • Onboarding Tech Analyst
+
+### Main activities:
+    • Reception of new employees in the technology area, ensuring a good start to work in a remote environment.
+    • Development of support materials such as videos and texts.
+    • Constant contact with all areas related to technology, such as: engineering, product, design and data.
+
+In June 2022 I joined the People Analytics team. Using Google Data Studio and Google Sheets, I perform engagement analysis in the company's activities, such as:
+
+    • Participation of employees in meetings
+    • Satisfaction surveys for lectures and content created by HR
+    • Evaluation of employees in relation to the Onboarding period
+
+## Company: Esplanada Móveis – Jundiaí/SP – (Jul/2020 - Dec/2021)
+### Positions:
+    • Senior Transport Assistant
+    • Shopping assistant
+    • Administrative Assistant - Purchasing Sector
+
+
+Main activities:
+    • Issuance of purchase order,
+    • Pricing
+    • Commercial analysis (sales by marketplace, sales by stores)
+    • Trade negotiations
+    • Delivery performance analysis
+    • Shipment time analysis
+    • Development of Excel macros for spreadsheet automation
