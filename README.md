@@ -38,3 +38,9 @@ Main activities:
     • Delivery performance analysis
     • Shipment time analysis
     • Development of Excel macros for spreadsheet automation
+    
+    
+# Projects
+## Down here one can find some of my projects
+
+.[Students Performance](https://luis-fnogueira.github.io/students-performance/)
