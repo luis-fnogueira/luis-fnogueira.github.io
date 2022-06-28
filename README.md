@@ -51,7 +51,7 @@ In June 2022 I joined the People Analytics team. Using Google Data Studio and Go
      • Knowledge in Dataviz: Power BI, Metabase, Google Data Studio
      • Knowledge of MySQL database    
     
-# LANGUAGES
+# Languages
 
 
   English: EFSET English Certificate 72/100 (C2 Proficient)
