@@ -30,8 +30,8 @@ In June 2022 I joined the People Analytics team. Using Google Data Studio and Go
     • Administrative Assistant - Purchasing Sector
 
 
-Main activities:
-    • Issuance of purchase order,
+### Main activities:
+    • Issuance of purchase order
     • Pricing
     • Commercial analysis (sales by marketplace, sales by stores)
     • Trade negotiations
@@ -43,4 +43,4 @@ Main activities:
 # Projects
 ## Down here one can find some of my projects
 
-.[Students Performance](https://luis-fnogueira.github.io/students-performance/)
+[Students Performance](https://luis-fnogueira.github.io/students-performance/)
