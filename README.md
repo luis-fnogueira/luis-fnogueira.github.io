@@ -5,7 +5,7 @@ I am Luis Nogueira, I was born in Jundiaí/SP in Brazil and I work as a People A
 
 I have a background in logistics and HR. I have worked in transportation, supplies, onboarding (of employees) and always have sought to use data to improve company's performance. Then I decided to become a data analyst and started to study Python, SQL and different data visualization softwares, such as Power BI.
 
-# PROFESSIONAL EXPERIENCE
+# Professional Experience
 
 ## Company: Clicksign – São Paulo/SP – (Dec/2021 - Currently)
 ### Positions:
@@ -39,7 +39,19 @@ In June 2022 I joined the People Analytics team. Using Google Data Studio and Go
     • Shipment time analysis
     • Development of Excel macros for spreadsheet automation
     
+# ACADEMIC EDUCATION
+
+     • Postgraduate in Business Intelligence – "Instituto de Gestão e Tecnologia da Informação" – Studying – Graduation forecast in 08/2022
+     • Postgraduate in General Administration - "Universidade Paulista" - Completion in 2020
+     • Graduation in Business Logistics - "Universidade Paulista" - Completion in 2019
+
+# TECHNICAL SKILLS
+
+     • Data analysis with Excel and Python
+     • Knowledge in Dataviz: Power BI, Metabase, Google Data Studio
+     • Knowledge of MySQL database    
     
+
 # Projects
 ## Down here one can find some of my projects
 
